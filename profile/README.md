@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://docs.webisters.com/assets/logo.svg" alt="Webisters" width="96" height="96">
+<img src="https://webisters.github.io/docs/assets/logo.svg" alt="Webisters" width="96" height="96">
 
 # Webisters
 
