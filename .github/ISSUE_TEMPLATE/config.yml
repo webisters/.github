@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://docs.webisters.com
+    about: Guides, per-library references, and API docs.
+  - name: Security report
+    url: mailto:support@webisters.com
+    about: Please report security vulnerabilities privately by email, not as a public issue.
+  - name: Community forum
+    url: https://github.com/webisters/forum
+    about: Ask questions and discuss ideas with the community.
