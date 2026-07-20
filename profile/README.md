@@ -4,7 +4,7 @@
 
 # Webisters
 
-**A modern, lightweight full-stack PHP framework — batteries-included libraries and ready-to-run project templates.**
+**A modern, lightweight full-stack PHP framework - batteries-included libraries and ready-to-run project templates.**
 
 [![Docs](https://img.shields.io/badge/docs-docs.webisters.com-0052ff?style=flat-square&logo=readthedocs&logoColor=white)](https://docs.webisters.com)
 [![Website](https://img.shields.io/badge/web-webisters.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://webisters.com)
@@ -20,12 +20,12 @@
 
 ## What is Webisters?
 
-Webisters is a full-stack PHP framework (PHP `>=8.2`) built as a **monorepo of independently-versioned Composer packages**. Take the whole framework, or compose your app from just the libraries you need — every package lives under the `Framework\*` namespace and installs through Composer.
+Webisters is a full-stack PHP framework (PHP `>=8.2`) built as a **monorepo of independently-versioned Composer packages**. Take the whole framework, or compose your app from just the libraries you need - every package lives under the `Framework\*` namespace and installs through Composer.
 
-- 🧩 **Modular** — 29 focused libraries (routing, database, http, session, validation, …) that work together or standalone.
-- ⚡ **Lightweight** — minimal dependencies, fast boot, no heavy runtime.
-- 🔋 **Batteries included** — MVC, CLI tooling, migrations, caching, crypto, i18n, logging, and more.
-- 🚀 **Scaffold in seconds** — generate app / API / single-file / static-site projects with one command.
+- 🧩 **Modular** - 29 focused libraries (routing, database, http, session, validation, …) that work together or standalone.
+- ⚡ **Lightweight** - minimal dependencies, fast boot, no heavy runtime.
+- 🔋 **Batteries included** - MVC, CLI tooling, migrations, caching, crypto, i18n, logging, and more.
+- 🚀 **Scaffold in seconds** - generate app / API / single-file / static-site projects with one command.
 
 ## 🚀 Get Started
 
@@ -41,9 +41,9 @@ webisters new-site my-site   # static site
 ```
 
 > [!IMPORTANT]
-> Enable the required PHP extensions first — `intl`, `sodium`, `gd`, `mysqli`, `curl`, `fileinfo`, `json`, `simplexml`, `dom`, `libxml`, plus `openssl` and `zip` for Composer. See the [**Requirements guide**](https://docs.webisters.com/guides/webisters/#requirements).
+> Enable the required PHP extensions first - `intl`, `sodium`, `gd`, `mysqli`, `curl`, `fileinfo`, `json`, `simplexml`, `dom`, `libxml`, plus `openssl` and `zip` for Composer. See the [**Requirements guide**](https://docs.webisters.com/guides/webisters/#requirements).
 
-📖 **Full documentation lives at [docs.webisters.com](https://docs.webisters.com)** — guides, per-library references, and full API docs generated from source.
+📖 **Full documentation lives at [docs.webisters.com](https://docs.webisters.com)** - guides, per-library references, and full API docs generated from source.
 
 ## 📚 Libraries
 
@@ -102,7 +102,7 @@ webisters new-site my-site   # static site
   <img src="https://github.com/HafizMMoaz.png" width="80" height="80" style="border-radius:50%" alt="HafizMMoaz">
 </a>
 
-**[Hafiz Muhammad Moaz — @HafizMMoaz](https://github.com/HafizMMoaz)** — creator and lead maintainer of the Webisters framework. 🏆
+**[Hafiz Muhammad Moaz - @HafizMMoaz](https://github.com/HafizMMoaz)** - creator and lead maintainer of the Webisters framework. 🏆
 
 Thanks to everyone who reports issues, improves the docs, and contributes code. Contributions are welcome across every repository.
 
